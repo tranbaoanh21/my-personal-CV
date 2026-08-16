@@ -1,0 +1,22 @@
+# Local CV sources
+*.tex
+
+# Generated output and temporary build files
+/output/
+/tmp/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.xdv
+
+# Keep only the public CV PDF
+*.pdf
+!Bảo Anh.pdf
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
